@@ -1,5 +1,5 @@
 {
-  students: [
-    { firstName: 'Don', lastName: 'Jasa', age: 26, position: 'Senior Developer' }
+  "students": [
+    { "firstName": "Don", "lastName": "Jasa", "age": 26, "position": "Senior Developer" }
   ]
 }
